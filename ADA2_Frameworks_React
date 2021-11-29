@@ -1,0 +1,9 @@
+Autora: Lizbeth Dolores Monforte
+Fecha de creacion: 28/11/2021
+Formulario de informacion personal
+Descripcion: Este pequeño programa consiste en un formulario de información personal, en el que se considera el nombre, 
+la edad, el pasatiempo y la fecha de cumpleaños del usuario; a partir de los cuales se calculan e imprimen los días, horas
+y minutos que ha vivido, así como el cálculo del tiempo en horas y días que falta para su cumpleaños.
+Instrucciones:  Ingresa los datos solicitado por el formulario, los cuales son tu nombre, edad, pasatiempo y fecha de cumpleaños; 
+posteriormente, haz click en el boton  submit. Se debera mostrar en pantalla la cantidad de dias, horas y minutos vividos asi como tu pasatiempo
+y la cantidad de dias y horas que faltan para tu cumpleaños.
